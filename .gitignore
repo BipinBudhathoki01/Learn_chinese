@@ -1,0 +1,6 @@
+# Ignore all files
+*
+# Except the audio bundle
+!chinese_audio_bundle/
+# And this gitignore itself
+!.gitignore
